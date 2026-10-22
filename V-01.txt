@@ -6,4 +6,4 @@ pour supporter son écosystème applicatif, notamment pour exécuter les applica
 fonctionnement interne : la comptabilité, les ressources humaines, la gestion des opérations, le mail,
 etc. Les données du système d’information d’une entreprise ainsi que les contenus numériques
 disponibles en téléchargement ou en lecture directe sur Internet sont également stockés dans des
-Datacenters.
+Datacenters.dgdcuec
