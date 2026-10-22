@@ -1,0 +1,9 @@
+données sur Internet, les Datacenters sont incontournables car le fonctionnement quotidien et continu
+d’une institution repose sur les services, les applications et les données stockées dans les Datacenters.
+A titre d’exemple, une entreprise a besoin d’un Datacenter pour stocker son infrastructure physique
+dans un emplacement stratégique contrôlé et accessible. Elle a également besoin d’un Datacenter
+pour supporter son écosystème applicatif, notamment pour exécuter les applications utiles à son
+fonctionnement interne : la comptabilité, les ressources humaines, la gestion des opérations, le mail,
+etc. Les données du système d’information d’une entreprise ainsi que les contenus numériques
+disponibles en téléchargement ou en lecture directe sur Internet sont également stockés dans des
+Datacenters.
